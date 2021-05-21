@@ -1,0 +1,16 @@
+C:\Users\Keskin\Desktop\pratikler\metotlar3\bin\Debug\net5.0\metotlar3.exe
+C:\Users\Keskin\Desktop\pratikler\metotlar3\bin\Debug\net5.0\metotlar3.deps.json
+C:\Users\Keskin\Desktop\pratikler\metotlar3\bin\Debug\net5.0\metotlar3.runtimeconfig.json
+C:\Users\Keskin\Desktop\pratikler\metotlar3\bin\Debug\net5.0\metotlar3.runtimeconfig.dev.json
+C:\Users\Keskin\Desktop\pratikler\metotlar3\bin\Debug\net5.0\metotlar3.dll
+C:\Users\Keskin\Desktop\pratikler\metotlar3\bin\Debug\net5.0\ref\metotlar3.dll
+C:\Users\Keskin\Desktop\pratikler\metotlar3\bin\Debug\net5.0\metotlar3.pdb
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.csprojAssemblyReference.cache
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.AssemblyInfoInputs.cache
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.AssemblyInfo.cs
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.csproj.CoreCompileInputs.cache
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.dll
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\ref\metotlar3.dll
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.pdb
+C:\Users\Keskin\Desktop\pratikler\metotlar3\obj\Debug\net5.0\metotlar3.genruntimeconfig.cache
